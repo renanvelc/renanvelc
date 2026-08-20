@@ -1,4 +1,4 @@
-# Hey, I'm Renan 👋
+# Hey, I'm Renan
 
 ### Python · SQL · Cybersecurity · Automation · JavaScript
 
