@@ -1,7 +1,2 @@
-Olá, eu sou o DevVelcic👋
-
-•  🔭 Iniciante na área de Programação...
-•  🌱 Estudando HTML-CSS, Cybersecurity...
-•  🤔 Procuro colegas amantes da tecnologia para estudarmos juntos...
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanvelc&show_icons=true&bg_color=00000000)
+Python | SQL | Cybersecurity
+Building practical solutions through automation, software development and secure systems. Passionate about technology, problem-solving and continuous learning.
