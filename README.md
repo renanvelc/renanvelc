@@ -35,7 +35,7 @@ View the project: https://github.com/renanvelc/vscode-discord-rpc
 ## Contact
 
 - GitHub: https://github.com/renanvelc
-- Instagram: @itsvelcic
+- Instagram: https://www.instagram.com/itsvelcic/
 - Discord: notcastiel._
 
 > Always learning, always building.
