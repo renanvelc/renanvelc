@@ -2,7 +2,7 @@
 
 ### Python · SQL · Cybersecurity · Automation · JavaScript
 
-I'm an ADS student passionate about software development, cybersecurity, automation, and solving real-world problems. I build practical projects to learn new technologies and improve my engineering skills.
+I'm an Computer Systems Analysis student passionate about software development, cybersecurity, automation, and solving real-world problems. I build practical projects to learn new technologies and improve my engineering skills.
 
 ## What I work on
 
